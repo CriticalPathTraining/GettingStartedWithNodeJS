@@ -1,0 +1,17 @@
+
+
+npm install -g @microsoft/generator-sharepoint
+
+yo @microsoft/sharepoint
+
+gulp trust-dev-cert
+
+gulp build
+
+gulp serve
+
+
+
+npm install -g powerbi-visuals-tools
+
+pbiviz --install-cert
